@@ -2,7 +2,7 @@
 Client/Server Development
 
 # How do you write programs that are maintainable, readable, and adaptable?
-To keep code maintainable, readable, and adaptable, it should be concise, well-commented, and variables and functions should be sensibly named. Beyond this, a large part of writing programs with these qualities means building code that is limited and focused in its scope. This helps keep code reusable, rather than the code being specifically built to work with only one system. For this project, it meant that the code for the CRUD module was written before any work was done on what would be the final interface for the animal shelter database.
+To keep code maintainable, readable, and adaptable, it should be concise, well-commented, and variables and functions should be sensibly named. Beyond this, a large part of writing programs with these qualities is building code that is limited and focused in its scope. This helps keep code reusable, rather than the code being specifically built to work with only one system. For this project, it meant that the code for the CRUD module was written before any work was done on what would be the final interface for the animal shelter database.
 
 # What were the advantages of working in this way?
 By working in this way, I could be sure that the base functionality of the system worked before anything else was built off of it. This ensured that the program had a sturdy foundation and reduced potential technical debt that could have come from a fundamental part of the system being defective. This also made testing easier as any errors I encountered could be assumed to be with how the base code was being employed rather than a problem with the base code itself.
