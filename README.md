@@ -22,5 +22,5 @@ To create datatabses to meet other client requests in the future I will employ a
 # What do computer scientists do, and why does it matter?
 Computer scientists address real world problems by representing systems in code and building the functionality to work with them. Because computers work very quickly, processes can done faster on these digital systems. This can be seen in this project with how a large database of animals in an animal shelter can be sorted through in a matter of seconds, whereas sorting through physical files manually would be an incredibly arduous process. Beyond this, computer scientists can also build models for things that would be too costly or dangerous to test in the real world. 
 
-#How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+# How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 My work on this type of project would help a company do their work better by expediting their process of working with data and thus saving both time and money. In the case of Grazioso Salvare in the project, this means that the company could spend less time sorting through fitting candidates for rescue dog training and more time actually training and evaluating dogs.
