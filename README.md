@@ -1,5 +1,4 @@
-# CS-340
-Client/Server Development
+# CS-340 Client/Server Development
 
 # How do you write programs that are maintainable, readable, and adaptable?
 To keep code maintainable, readable, and adaptable, it should be concise, well-commented, and variables and functions should be sensibly named. Beyond this, a large part of writing programs with these qualities is building code that is limited and focused in its scope. This helps keep code reusable rather than only being built to work with one specific system. For this project, it meant that the code for the CRUD module was written before any work was done on what would be the final interface for the animal shelter database.
